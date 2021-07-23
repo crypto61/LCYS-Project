@@ -1,0 +1,38 @@
+# Below is output of lcysproject.py when run in Codio. Run results for logging can be seen in file.log.
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+ * Super-optimized for small spaces - read how we shrank the memory
+   footprint of MicroK8s to make it the smallest full K8s around.
+
+   https://ubuntu.com/blog/microk8s-memory-optimisation
+
+ * Canonical Livepatch is available for installation.
+   - Reduce system reboots and improve kernel security. Activate at:
+     https://ubuntu.com/livepatch
+ *
+ * Welcome to the Codio Terminal!
+ *
+ * https://docs.codio.com/project/ide/boxes/#overview
+ *
+ * Your Codio Box domain is: right-cuba.codio.io
+ *
+Last login: Thu Jul 22 17:39:20 2021 from 192.168.10.156
+codio@right-cuba:~/workspace$ python3 lycsproject.py
+
+today's date is 2021-07-22
+
+firewall 1 patch date is 2021-07-15
+
+firewall 2 patch date is 2021-05-15
+
+Firewall 1 expiration date is 2021-08-14
+
+Firewall 2 expiration date is 2021-06-14
+
+Patch status of firewall 1 is current 2021-07-22
+
+PATCH STATUS OF FIREWALL 2 IS OUT OF DATE AND REQUIRES IMMEDIATE ATTENTION 2021-07-22
+codio@right-cuba:~/workspace$ 
